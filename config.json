@@ -1,5 +1,5 @@
 {
-    "title": "Welcome to my world!",
+    "title": "Welcome!",
   "description": "APE GS Groupe Chopin Carpentier - 59112 Annoeullin.",
   "logo": "Book.jpeg",
   "navbarTitle": {
@@ -8,7 +8,7 @@
   },
   "author": {
     "name": "APE GS Chopin Carpentier",
-    "url": "https://datahub.io/",
+    "url": "https://datahub.io/@mehdiboukrif/APEChopinCarpentier",
     "logo": "Book.jpeg"
   },
   "showSidebar": true
