@@ -1,13 +1,13 @@
 {
     "title": "Welcome to my world!",
-  "description": "In an age where information is abundant and constantly evolving, managing knowledge efficiently is crucial. Welcome to my Personal Knowledge Management (PKM) system, a structured approach designed to help you capture, organize, and utilize information effectively.",
+  "description": "APE GS Groupe Chopin Carpentier - 59112 Annoeullin.",
   "logo": "Book.jpeg",
   "navbarTitle": {
     "logo": "Book.jpeg",
     "text": "My PKM"
   },
   "author": {
-    "name": "Daniela",
+    "name": "APE GS Chopin Carpentier",
     "url": "https://datahub.io/",
     "logo": "Book.jpeg"
   },
