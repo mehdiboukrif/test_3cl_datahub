@@ -1,23 +1,25 @@
 # CR réunion création APE 8 octobre 2024
-​## Connaitre les parents d'élèves qui soutiennent la création de l'asso
+​
+## Connaitre les parents d'élèves qui soutiennent la création de l'asso
 Réunion à 18h30 en salle de pause R+2 avec environ 15 pers dont 2 nouveaux parents d'élèves.
 
-​- Tour de table pour faire le point sur la répartition des enfants (niveaux de classe) des PE présents.
+- Tour de table pour faire le point sur la répartition des enfants (niveaux de classe) des PE présents.
 	Bonne répartition des enfants des PE dans les différents niveaux et aussi bien en maternelle que primaire.
-​- Expérience dans la participation d'une association ou APE.
+
+- Expérience dans la participation d'une association ou APE.
 	Plusieurs PE ont déjà participés à des assos voir des APE et notamment en tant que président ou trésorier. 
 	Utile de s'appuyer sur cette expérience pour démarrer l'asso et notamment la rédaction des statuts.
-​- Les idées et projets déjà en tête pour certains PE
+	
+- Les idées et projets déjà en tête pour certains PE
 	Plusieurs idées avec par exemple la participation au téléthon, la participation à des actions organisées par les autres APE (carnaval...), une soirée années 80, des ateliers 1ers secours etc...
 
-​## Rôle des parents d'élèves élus et d'une association de parents d'élèves (APE).
+## Rôle des parents d'élèves élus et d'une association de parents d'élèves (APE).
 
 >**Objectif principal commun** : **défendre les intérêts communs des parents d’élèves**. Il s’agit à la fois de leurs intérêts moraux (sécurité des enfants, égalité de leur traitement au quotidien…) et de leurs intérêts matériels (coût des repas scolaires, entretien des locaux…).[Articles D. 111-6 à D. 111-9 du code de l'éducation](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006182458/)
 ### Points communs entre PE élus et Asso
 ​- Représentation et médiation
 	- Les parents d'élève élus et les associations de parents d'élèves ont un rôle d'information et de lien entre l'école " la communauté éducative", et les autres parents d'élèves.
  
-
 Les parents d'élèves élus et les APE peuvent organiser des actions sans lien direct avec la formation ou l'éducation (fêtes, loisirs etc) l'école si ils ont l'autorisation de la mairie.
 ### Différences entre PE élus et Asso
 
@@ -33,7 +35,7 @@ De bénéficier de subventions municipales et d'une salle.
 
 Actuellement Mme Lambrescht gère le budget des différentes actions avec une OCCE.
 
-> [!Frequently asked question] OCCE (coopérative scolaire)
+> [!Frequently asked question]- OCCE (coopérative scolaire)
 > L'OCCE est une association loi 1901.  
 > Reconnue d'utilité publique et agréée au titre des associations complémentaires de l'école par le ministère de l'Education nationale.
 > 
@@ -76,14 +78,10 @@ Autres?
 
 ### Outils pour s'organiser
 Quel outils? 
-
 - Voir hello asso déjà utilisé (Nathalie et Maxime) et tres bien pour les événements (billets etc)
-
 - Voir outils partage de docs pour création statuts et compte rendus.
 ## Prochaines étapes 
 >Réunion/atelier de travail sur les statuts.
   - Caler une date et prévoir de rencontrer Seb et Julie en même temps.
-
-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
 
 
